@@ -1,0 +1,1 @@
+Aqui se guardan los correos cuando el sistema esta en modo demostracion (SMTP_CLAVE vacia en config.php).
